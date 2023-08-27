@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/fayshalrana/Bank-of-React",
+  "homepage": "https://fayshalrana.github.io/Bank-of-React",
   "name": "bank-of-react",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
